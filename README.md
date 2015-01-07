@@ -24,3 +24,8 @@ A json text file, *metadata.json*, may be placed in the executable directory or 
             }
         }
     }
+
+
+##Related blog post
+
+[Ec2spotstop2sns](http://blog.simpletask.se/post/ec2spotstop2sns) on Cosmik Debris.
