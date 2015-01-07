@@ -1,0 +1,10 @@
+﻿{
+    "latest": {
+        "meta-data": {
+            "instance-id": "mock-instance-id",
+            "spot": {
+                "termination-time": "2015-01-07 00:00:00"
+            }
+        }
+    }
+}
